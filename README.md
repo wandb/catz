@@ -2,6 +2,8 @@
 
 A machine learning contest to predict the behavior of catz.  Be sure to sign up for W&B using your Qualcomm email address
 
+![catz](https://www.americanhumane.org/app/uploads/2016/08/animals-cats-cute-45170-min-1024x569.jpg)
+
 This contest will end on May 31st.  The winner will be announced in a W&B blogpost that describes their model and approach.
 
 * **1st prize:** $1000 Gift Certificate
