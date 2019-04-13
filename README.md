@@ -1,6 +1,14 @@
 # CATZ
 
-A machine learning contest to predict the behavior of catz.
+A machine learning contest to predict the behavior of catz.  Be sure to sign up for W&B using your Qualcomm email address
+
+This contest will end on May 31st.  The winner will be announced in a W&B blogpost that describes their model and approach.
+
+* **1st prize:** $1000 Gift Certificate
+* **2nd Prize:** $300 Gift Certificate
+* **3rd Prize:** $200 Gift Certificate
+
+Each gift certificate will be email to the winner after the contest ends.  The gift certificated can be used on an airline or hotel Company of your choice.
 
 ## The dataset
 
