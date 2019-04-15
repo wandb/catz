@@ -1,6 +1,11 @@
 # CATZ
 
-A machine learning contest to predict the behavior of catz.  Be sure to sign up for W&B using your Qualcomm email address
+A machine learning contest to predict the behavior of catz.  
+
+1. Be sure to [sign up](https://app.wandb.ai/login?signup=true) for W&B using your corporate email address i.e. (@qualcomm.com)
+2. Clone this repository on your laptop or hub instance (with the provided code from the email you recieved) `git clone https://github.com/wandb/catz.git`
+3. Run train.py to train a basic model, modify this file and the data pipeline to get better results.
+4. Submit your result to the [benchmark](https://app.wandb.ai/wandb/catz/benchmark) to be considered for the contest.
 
 ![catz](https://www.americanhumane.org/app/uploads/2016/08/animals-cats-cute-45170-min-1024x569.jpg)
 
