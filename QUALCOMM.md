@@ -17,7 +17,7 @@ This contest will end on May 31st.  The winner will be announced in a W&B blogpo
 * **2nd Prize:** $300 Gift Certificate
 * **3rd Prize:** $200 Gift Certificate
 
-Each gift certificate will be emailed to the winner after the contest ends.  The gift certificated can be used on an airline or hotel Company of your choice.
+Each gift certificate will be emailed to the winner after the contest ends.  The gift certificate can be used on an airline or hotel company of your choice.
 
 ## The dataset
 
