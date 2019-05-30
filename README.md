@@ -1,6 +1,6 @@
-# CATZ
+# Catz Benchmark
 
-This is the starter repository for the Weights & Biases community benchmark for machine learning approaches to predict the behavior of catz.
+This is the starter repository for the Weights & Biases community benchmark for predicting the behavior of catz from a dataset of cat GIFs.
 
 ## Getting started
 
