@@ -6,7 +6,7 @@ This is the starter repository for the Weights & Biases community benchmark for 
 
 1. Be sure to [sign up](https://app.wandb.ai/login?signup=true) for W&B.
 2. Clone this repository: `git clone https://github.com/wandb/catz.git`
-3. Run `pip install -r requirements.text --upgrade` to install requirements.
+3. Run `pip install -U -r requirements.txt` to install requirements.
 4. Run `python train.py` to train the baseline model. Modify this file and the data pipeline (or write your own scripts and create different model architectures!) to get better results.
 5. Submit your results to the [benchmark](https://app.wandb.ai/wandb/catz/benchmark).
 
